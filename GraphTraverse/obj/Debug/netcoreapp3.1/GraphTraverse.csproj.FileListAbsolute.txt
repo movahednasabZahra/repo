@@ -1,0 +1,14 @@
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\GraphTraverse.exe
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\GraphTraverse.deps.json
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\GraphTraverse.runtimeconfig.json
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\GraphTraverse.runtimeconfig.dev.json
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\GraphTraverse.dll
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\GraphTraverse.pdb
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\GraphTraverse.csproj.AssemblyReference.cache
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\GraphTraverse.GeneratedMSBuildEditorConfig.editorconfig
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\GraphTraverse.AssemblyInfoInputs.cache
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\GraphTraverse.AssemblyInfo.cs
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\GraphTraverse.csproj.CoreCompileInputs.cache
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\GraphTraverse.dll
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\GraphTraverse.pdb
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\GraphTraverse.genruntimeconfig.cache

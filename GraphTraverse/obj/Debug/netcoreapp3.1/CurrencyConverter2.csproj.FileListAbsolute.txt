@@ -1,0 +1,14 @@
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\CurrencyConverter2.csproj.AssemblyReference.cache
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\CurrencyConverter2.GeneratedMSBuildEditorConfig.editorconfig
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\CurrencyConverter2.AssemblyInfoInputs.cache
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\CurrencyConverter2.AssemblyInfo.cs
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\CurrencyConverter2.csproj.CoreCompileInputs.cache
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\CurrencyConverter2.exe
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\CurrencyConverter2.deps.json
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\CurrencyConverter2.runtimeconfig.json
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\CurrencyConverter2.runtimeconfig.dev.json
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\CurrencyConverter2.dll
+F:\interview\mateMachine\CurrencyConverter2\bin\Debug\netcoreapp3.1\CurrencyConverter2.pdb
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\CurrencyConverter2.dll
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\CurrencyConverter2.pdb
+F:\interview\mateMachine\CurrencyConverter2\obj\Debug\netcoreapp3.1\CurrencyConverter2.genruntimeconfig.cache
